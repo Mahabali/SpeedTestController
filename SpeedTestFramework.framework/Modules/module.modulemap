@@ -1,0 +1,11 @@
+framework module SpeedTestFramework {
+  umbrella header "SpeedTestFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module SpeedTestFramework.Swift {
+    header "SpeedTestFramework-Swift.h"
+    requires objc
+}
