@@ -5,7 +5,7 @@ iOS Speed Test in Swift
 
 Please configure your own server URL. Have like 10 MB data to be downloaded for accurate results with HTTP GET Method.
 
-##To Do
+## To Do
 
 1) Interactive Screen UI
 
